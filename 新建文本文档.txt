@@ -1,0 +1,6 @@
+https://search.sina.com.cn/?q=疫&range=all&c=news&sort=time
+
+https://search.sina.com.cn/?q=%E6%8A%A5%E8%80%83%E6%96%87%E8%81%8C&range=all&c=news&sort=time
+
+
+http://m.ftchinese.com/search/?keys=疫&ftsearchType=type_news
